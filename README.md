@@ -58,7 +58,7 @@ Design Responsivo, Menu, Rodapé, Animação no texto da parte 1 do Index, Botõ
 
 
 ## Preview
-
+![](preview.gif)
 
 ## Contato
 
