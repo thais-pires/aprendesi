@@ -7,7 +7,7 @@
 <h3 align="center">AprendeSI</h3>
 
 <p align="center">
-  Conhecimento de Sistemas para Internet acessível para TODOS
+  Conhecimento de Sistemas para Internet acessível para TODOS<br>
   <a href="https://thais-pires.github.io/aprendesi/">Acesse agora!</a>
   <br>
   <br>
