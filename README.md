@@ -34,7 +34,7 @@ Design Responsivo, Menu, Rodapé, Animação no texto da parte 1 do Index, Botõ
 - FOOTER: ícones de redes sociais (Facebook, Instagram, Twitter e GitHub); copyright; botão de redirecionamento para o topo da página.
 
 ### Página principal / Home / Index
-- MAIN dividida em duas partes:
+- MAIN dividida em duas partes:<br>
 (1) imagem de fundo e texto acima desta com animação slide-in, além de um botão de redirecionamento para a página Roteiro.
 (2)
 
