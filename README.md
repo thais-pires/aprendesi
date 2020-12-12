@@ -47,6 +47,8 @@ Design Responsivo, Menu, Rodapé, Animação no texto da parte 1 do Index, Botõ
   
 ### Desenvolvimento (que na realidade é a página da aula)
 - Composto por `<section>`, `<div>`, `<h1>`, `<h2>`, `<h3>`, `<p>`, `<iframe>`.
+
+🛑 Atenção: como fizemos só uma página para ilustrar cada componente principal do site, ao clicar em algo referente a "Desenvolvimento" irá redirecionar para a página ilustrativa de uma aula.
   
 ### Login
 - Formulário tipo GET, `<label>`, `<input>` dos tipos email, password e submit; botão com redirecionamento para página de cadastro.
@@ -54,7 +56,6 @@ Design Responsivo, Menu, Rodapé, Animação no texto da parte 1 do Index, Botõ
 ### Cadastro
 - Formulário tipo GET, `<label>`, `<input>` dos tipos text, email, password, submit e reset.
 
-🛑 Atenção: como fizemos só uma página para ilustrar cada componente principal do site, ao clicar em algo referente a "Desenvolvimento" irá redirecionar para a página ilustrativa de uma aula.
 
 ## Preview
 
@@ -64,5 +65,5 @@ Design Responsivo, Menu, Rodapé, Animação no texto da parte 1 do Index, Botõ
 **Thaís Pires**
 <thpa@hotmail.co.uk>
 
-**Ana Beatriz**
-<https://twitter.com/fat>
+**Ana Beatriz Medeiros**
+<medeiros.ana@academico.ifpb.edu.br>
