@@ -8,15 +8,16 @@
 
 <p align="center">
   Conhecimento de Sistemas para Internet acessível para TODOS
+  <a href="https://thais-pires.github.io/aprendesi/">Acesse agora!</a>
   <br>
   <br>
-  <a href="https://github.com/twbs/bootstrap/issues/new?template=bug_report.md">Sobre</a>
+  <a href="https://github.com/thais-pires/aprendesi#sobre">Sobre</a>
   ·
-  <a href="https://github.com/twbs/bootstrap/issues/new?template=feature_request.md">Funcionalidades</a>
+  <a href="https://github.com/thais-pires/aprendesi#funcionalidades">Funcionalidades</a>
   ·
-  <a href="https://themes.getbootstrap.com/">Preview</a>
+  <a href="https://github.com/thais-pires/aprendesi#preview">Preview</a>
   ·
-  <a href="https://blog.getbootstrap.com/">Contato</a>
+  <a href="https://github.com/thais-pires/aprendesi#contato">Contato</a>
 </p>
 
 
