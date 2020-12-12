@@ -39,19 +39,19 @@ Design Responsivo, Menu, Rodapé, Animação no texto da parte 1 do Index, Botõ
 (2) três colunas em Grid, elementos em Flex, com o "Veja Mais" com link para páginas de suas respectivas categorias.
 
 ### Roteiro
-- Composto por <section>, <div>, <h1>, <p>, <ul>, <li> e <a> com link.
+- Composto por `<section>`, `<div>`, `<h1>`, `<p>`, `<ul>`, `<li>` e `<a>` com link.
   
 ### Fundamentos
-- Composto por <section>, <div>, <h1>, <h2>, <h3>, <p>, <br>, <details>, <summary> e <a> com link.
+- Composto por `<section>`, `<div>`, `<h1>`, `<h2>`, `<h3>`, `<p>`, `<br>`, `<details>`, `<summary>` e `<a>` com link.
   
 ### Desenvolvimento (que na realidade é a página da aula)
-- Composto por <section>, <div>, <h1>, <h2>, <h3>, <p>, <iframe>.
+- Composto por `<section>`, `<div>`, `<h1>`, `<h2>`, `<h3>`, `<p>`, `<iframe>`.
   
 ### Login
-- Formulário tipo GET, <label>, <input> dos tipos email, password e submit; botão com redirecionamento para página de cadastro.
+- Formulário tipo GET, `<label>`, `<input>` dos tipos email, password e submit; botão com redirecionamento para página de cadastro.
   
 ### Cadastro
-- Formulário tipo GET, <label>, <input> dos tipos text, email, password, submit e reset.
+- Formulário tipo GET, `<label>`, `<input>` dos tipos text, email, password, submit e reset.
 
 🛑 Atenção: como fizemos só uma página para ilustrar cada componente principal do site, ao clicar em algo referente a "Desenvolvimento" irá redirecionar para a página ilustrativa de uma aula.
 
