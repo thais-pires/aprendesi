@@ -31,8 +31,8 @@ Design Responsivo, Menu, Rodapé, Animação no texto da parte 1 do Index, Botõ
 
 ### Comuns a todas as páginas
 - HEAD: favicon em três tamanhos (16px, 32px e 92px); título da página; links para a folha de estilos style.css, ao [FontAwesome](https://fontawesome.com/) e às fontes [QuickSand](https://fonts.google.com/specimen/Quicksand) e [Roboto](https://fonts.google.com/specimen/Roboto) do [GoogleFonts](https://fonts.google.com/). 
-- HEADER: em grid; barra de navegação (menu); logo; ícone redirecionando para a página de Login.
-- FOOTER: em grid; com ícones de redes sociais (Facebook, Instagram, Twitter e GitHub); copyright; botão de redirecionamento para o topo da página.
+- HEADER: em grid; barra de navegação (menu); logo; ícone redirecionando para a página de Login; CSS position static.
+- FOOTER: em grid; com ícones de redes sociais (Facebook, Instagram, Twitter e GitHub); copyright; botão de redirecionamento para o topo da página; CSS position static.
 
 ### Página principal / Home / Index
 - MAIN dividida em duas partes:<br>
